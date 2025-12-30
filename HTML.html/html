@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>my first html code</title>
+  </head>
+  <body>
+    <h1>My First HTML File</h1>
+    <h2>I made it</h2>
+    <h3>Using HTML</h3>
+    <h4>And will use CSS</h4>
+    <h5>in next series</h5>
+    <h6>My First HTML File</h6>
+
+    <p>
+      Lorem ipsum <em><strong>Deepanshu Garg</strong></em>
+      <em>This is emphasised line</em> dolor sit
+    </p>
+
+    <p>
+      First <br />
+      this is the new line
+    </p>
+    <br />
+    
+
+    <hr color="black" width="780" />
+
+    <a href="https://www.google.com/" target="_blank">Go to Google</a>
+    <a href="https://www.facebook.com/" target="_blank">Go to Facebook</a>
+    <a href="https://www.linkedin.com/" target="_blank">Go to Linkedin</a>
+    <hr color="pink" width="2000" />
+
+    <br /><br />
+
+    <img
+      src="https://images.unsplash.com/photo-1518770660439-4636190af475"
+      width="200"
+      alt="Coding Image"
+    />
+    <ul type="circle">
+      <li>this is my first list</li>
+      <li>this is my second list</li>
+      <li>This is my third list</li>
+    </ul>
+    <ol type="I">
+      <li>this is my first list</li>
+      <li>this is my second list</li>
+      <li>This is my third list</li>
+    </ol>
+  </body>
+</html>
